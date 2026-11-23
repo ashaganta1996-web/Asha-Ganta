@@ -48,7 +48,7 @@ while True:
         print("Too high! Try again.")
 
 #reusable functions/methods and practice collections/arrays
-#student score card
+#student score calculator
 def get_marks():
     marks = []
     for i in range(5):
